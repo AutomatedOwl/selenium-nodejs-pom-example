@@ -2,11 +2,11 @@
 
 Prerequisites: 
 
-               NodeJS (tested with version 8)
+     node.js (tested with version 8)
 
-               Chrome browser (tested with version 66)
+     Chrome browser (tested with version 66)
                
-               OS: Windows/Ubuntu/Fedora
+     OS: Windows/Ubuntu/Fedora
 
 To run in Windows:
 1. Go to root project directory.
