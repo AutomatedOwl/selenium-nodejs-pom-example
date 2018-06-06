@@ -7,8 +7,8 @@ Prerequisites: NodeJS (tested with version 8),
 To run in Windows:
 1. Go to root project directory.
 2. npm install
-3. node_modules\.bin\selenium-standalone install
-3. node_modules\.bin\selenium-standalone start
+3. node_modules\\.bin\selenium-standalone install
+3. node_modules\\.bin\selenium-standalone start
 4. npm test
 
 To run in Linux:
