@@ -47,7 +47,7 @@ test.describe('Mocha Selenium Tests', function() {
   });
 
   /**
-   * Clean up function after each test ends
+   * Clean up function after test ends
    */
   test.after(function(done) {
     driver.quit();
