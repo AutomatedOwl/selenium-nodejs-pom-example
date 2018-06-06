@@ -41,7 +41,7 @@ test.describe('Mocha Selenium Tests', function() {
       });;
   });
 
-  test.it('should verify kibana.com page', function() {
+  test.it('should verify kibana home page', function() {
     kibanaPage.isLoaded();
     kibanaPage.scrollToElement();
   });
