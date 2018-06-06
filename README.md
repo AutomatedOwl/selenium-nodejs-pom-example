@@ -1,7 +1,10 @@
 ## selenium-nodejs-pom-example 
 
-Prerequisites: NodeJS (tested with version 8),
+Prerequisites: 
+               NodeJS (tested with version 8)
+
                Chrome browser (tested with version 66)
+               
                OS: Windows/Ubuntu/Fedora
 
 To run in Windows:
