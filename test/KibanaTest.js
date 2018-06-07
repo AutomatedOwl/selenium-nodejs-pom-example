@@ -1,6 +1,6 @@
-var DriverManager = require('./../lib/Drivers/DriverManager');
-var GooglePage = require('./../lib/Pages/GooglePage');
-var KibanaPage = require('../lib/Pages/KibanaPage');
+var DriverManager = require('./../lib/drivers/DriverManager');
+var GooglePage = require('./../lib/pages/GooglePage');
+var KibanaPage = require('../lib/pages/KibanaPage');
 var Assert = require('chai').assert;
 var test = require('selenium-webdriver/testing');
 
